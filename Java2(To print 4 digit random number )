@@ -1,0 +1,7 @@
+//To print 4 digit random number 
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println((int)((Math.random()*10000)));
+	}
+}
